@@ -1,5 +1,3 @@
-I apologize for the confusion! Here’s the complete README in one single block without interruptions:
-
 ```markdown
 # Hand Gesture Detection and Tracking
 
