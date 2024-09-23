@@ -1,4 +1,3 @@
-```markdown
 # Hand Gesture Detection and Tracking
 
 This project implements a real-time hand gesture detection and tracking system using OpenCV and MediaPipe.
